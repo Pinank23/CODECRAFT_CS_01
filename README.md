@@ -414,6 +414,7 @@ cd CODECRAFT_CS_01
 python3 CipherPulse.py
 ```
 </div>
+
 **Version: 2.0 | Status: Production Ready | Updated: December 2025**
 
 Made with 💚 for security enthusiasts
