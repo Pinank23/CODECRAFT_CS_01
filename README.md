@@ -4,13 +4,13 @@
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════════════════╗
-║                    🔐 C I P H E R P U L S E 🔐                        ║
-║                                                                        ║
-║              🚀 AI-POWERED | RETRO KALI STYLE | ADVANCED 🚀           ║
-║                                                                        ║
-║       Unlock cryptography secrets with intelligent decryption          ║
-╚════════════════════════════════════════════════════════════════════════╝
+          ╔════════════════════════════════════════════════════════════════════════╗
+          ║                    🔐 C I P H E R P U L S E 🔐                        ║
+          ║                                                                        ║
+          ║              🚀 AI-POWERED | RETRO KALI STYLE | ADVANCED 🚀           ║
+          ║                                                                        ║
+          ║       Unlock cryptography secrets with intelligent decryption          ║
+          ╚════════════════════════════════════════════════════════════════════════╝
 ```
 ![CipherPulse Banner](https://github.com/Pinank23/CODECRAFT_CS_01/raw/main/banner.png)
 <br>
@@ -42,14 +42,14 @@
 ## 🎭 **What is CipherPulse?**
 
 ```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  CUTTING-EDGE ENCRYPTION & CRYPTANALYSIS PLATFORM                ┃
-┃                                                                  ┃
-┃  🔐 Manual Encryption/Decryption     🤖 AI Brute Force Decoder  ┃
-┃  🧠 Frequency Analysis Engine         ⚡ Smart Auto Decoder     ┃
-┃  📊 Real-Time Analytics              💾 File I/O Operations     ┃
-┃  🎨 3 Output Format Viewers          🛡️ Production-Ready Code   ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+                   ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+                   ┃  CUTTING-EDGE ENCRYPTION & CRYPTANALYSIS PLATFORM                ┃
+                   ┃                                                                  ┃
+                   ┃  🔐 Manual Encryption/Decryption     🤖 AI Brute Force Decoder  ┃
+                   ┃  🧠 Frequency Analysis Engine         ⚡ Smart Auto Decoder     ┃
+                   ┃  📊 Real-Time Analytics              💾 File I/O Operations     ┃
+                   ┃  🎨 3 Output Format Viewers          🛡️ Production-Ready Code   ┃
+                   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 CipherPulse is a **professional-grade cryptography tool** featuring:
@@ -404,15 +404,15 @@ See LICENSE file for details
 [⭐ Star](https://github.com/Pinank23/CODECRAFT_CS_01/stargazers) • [🍴 Fork](https://github.com/Pinank23/CODECRAFT_CS_01/fork) • [📢 Share](linkedin.com)
 
 ---
-
+<div align="left">
 ## 🎉 **Ready to Decrypt?**
 
 ```bash
-git clone https://github.com/Pinank23/CODECRAFT_CS_01.git
+    git clone https://github.com/Pinank23/CODECRAFT_CS_01.git
 cd CODECRAFT_CS_01
 python3 CipherPulse.py
 ```
-
+</div>
 **Version: 2.0 | Status: Production Ready | Updated: December 2025**
 
 Made with 💚 for security enthusiasts
