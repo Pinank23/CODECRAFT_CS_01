@@ -405,10 +405,11 @@ See LICENSE file for details
 
 ---
 <div align="left">
+          
 ## 🎉 **Ready to Decrypt?**
 
 ```bash
-    git clone https://github.com/Pinank23/CODECRAFT_CS_01.git
+git clone https://github.com/Pinank23/CODECRAFT_CS_01.git
 cd CODECRAFT_CS_01
 python3 CipherPulse.py
 ```
